@@ -471,3 +471,16 @@ canvas {
 iframe{
   display: none
 }
+
+.container, .outer-container, .outer-container2 {
+  max-width: 100%;
+  overflow-x: hidden; /* Ensure containers do not overflow horizontally */
+}
+
+/* Prevent horizontal scrolling */
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
