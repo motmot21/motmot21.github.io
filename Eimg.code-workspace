@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Eimg",
+			"path": "../../../Downloads/Eimg"
+		},
+		{
+			"name": "Mimg",
+			"path": "../../../Downloads/Mimg"
+		},
+		{
+			"name": "personalweb",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
